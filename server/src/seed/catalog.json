@@ -1,0 +1,1040 @@
+{
+ "categories": [
+  {
+   "slug": "sneakers",
+   "name": "Sneakers",
+   "blurb": "Runners, courts and high-tops",
+   "image": "https://images.unsplash.com/photo-1460353581641-37baddab0fa2?auto=format&fit=crop&w=1200&q=80",
+   "order": 0
+  },
+  {
+   "slug": "fashion",
+   "name": "Fashion",
+   "blurb": "Outerwear and everyday layers",
+   "image": "https://images.unsplash.com/photo-1539533018447-63fcce2678e3?auto=format&fit=crop&w=1000&q=80",
+   "order": 1
+  },
+  {
+   "slug": "electronics",
+   "name": "Electronics",
+   "blurb": "Audio, phones and tablets",
+   "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80",
+   "order": 2
+  },
+  {
+   "slug": "watches",
+   "name": "Watches",
+   "blurb": "Automatics and quiet classics",
+   "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80",
+   "order": 3
+  },
+  {
+   "slug": "accessories",
+   "name": "Accessories",
+   "blurb": "Bags, eyewear and leather",
+   "image": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&w=1000&q=80",
+   "order": 4
+  },
+  {
+   "slug": "beauty",
+   "name": "Beauty",
+   "blurb": "Fragrance and skincare",
+   "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=900&q=80",
+   "order": 5
+  },
+  {
+   "slug": "gaming",
+   "name": "Gaming",
+   "blurb": "Keyboards, mice, controllers",
+   "image": "https://images.unsplash.com/photo-1593305841991-05c297ba4575?auto=format&fit=crop&w=900&q=80",
+   "order": 6
+  },
+  {
+   "slug": "lifestyle",
+   "name": "Lifestyle",
+   "blurb": "Home and carry essentials",
+   "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=1200&q=80",
+   "order": 7
+  }
+ ],
+ "products": [
+  {
+   "n": 1,
+   "name": "Apex Runner",
+   "brand": "Stridewell",
+   "category": "sneakers",
+   "price": 72,
+   "originalPrice": 180,
+   "rating": 4.8,
+   "reviews": 1284,
+   "images": [
+    "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1600185365926-3a2ce3cdb9eb?auto=format&fit=crop&w=900&q=80"
+   ],
+   "colors": [
+    {
+     "name": "Onyx",
+     "hex": "#1B1C20"
+    },
+    {
+     "name": "Bone",
+     "hex": "#E7E3DA"
+    },
+    {
+     "name": "Cobalt",
+     "hex": "#3A4DE8"
+    }
+   ],
+   "sizes": [
+    "US 7",
+    "US 8",
+    "US 9",
+    "US 10",
+    "US 11"
+   ],
+   "stock": 12,
+   "totalStock": 80,
+   "description": "A responsive foam midsole and a woven upper built for long miles and longer nights. Ultra-light, all-day comfortable.",
+   "isFlashSale": true,
+   "isTrending": true,
+   "isFeatured": false,
+   "daysOld": 4
+  },
+  {
+   "n": 2,
+   "name": "Court Low 86",
+   "brand": "Kōri",
+   "category": "sneakers",
+   "price": 74,
+   "originalPrice": 140,
+   "rating": 4.6,
+   "reviews": 812,
+   "images": [
+    "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1460353581641-37baddab0fa2?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1552346154-21d32810aba3?auto=format&fit=crop&w=900&q=80"
+   ],
+   "colors": [
+    {
+     "name": "White",
+     "hex": "#F4F4F2"
+    },
+    {
+     "name": "Sand",
+     "hex": "#C9B79C"
+    },
+    {
+     "name": "Olive",
+     "hex": "#5D6247"
+    }
+   ],
+   "sizes": [
+    "US 7",
+    "US 8",
+    "US 9",
+    "US 10",
+    "US 11"
+   ],
+   "stock": 24,
+   "totalStock": 90,
+   "description": "Full-grain leather court silhouette with a clean cupsole and a vintage stitched heel tab.",
+   "isFlashSale": true,
+   "isTrending": false,
+   "isFeatured": false,
+   "daysOld": 12
+  },
+  {
+   "n": 3,
+   "name": "Trail Ghost GTX",
+   "brand": "Stridewell",
+   "category": "sneakers",
+   "price": 99,
+   "originalPrice": 165,
+   "rating": 4.7,
+   "reviews": 540,
+   "images": [
+    "https://images.unsplash.com/photo-1460353581641-37baddab0fa2?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1491553895911-0055eca6402d?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?auto=format&fit=crop&w=900&q=80"
+   ],
+   "colors": [
+    {
+     "name": "Slate",
+     "hex": "#5B6472"
+    },
+    {
+     "name": "Olive",
+     "hex": "#5D6247"
+    }
+   ],
+   "sizes": [
+    "US 7",
+    "US 8",
+    "US 9",
+    "US 10",
+    "US 11"
+   ],
+   "stock": 9,
+   "totalStock": 60,
+   "description": "Waterproof membrane, aggressive lugs and a rock plate. Made for wet trails and wetter city mornings.",
+   "isFlashSale": true,
+   "isTrending": false,
+   "isFeatured": false,
+   "daysOld": 21
+  },
+  {
+   "n": 4,
+   "name": "Mono Hi-Top",
+   "brand": "Halden",
+   "category": "sneakers",
+   "price": 68,
+   "originalPrice": 130,
+   "rating": 4.4,
+   "reviews": 391,
+   "images": [
+    "https://images.unsplash.com/photo-1491553895911-0055eca6402d?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1600185365926-3a2ce3cdb9eb?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?auto=format&fit=crop&w=900&q=80"
+   ],
+   "colors": [
+    {
+     "name": "Onyx",
+     "hex": "#1B1C20"
+    },
+    {
+     "name": "Bone",
+     "hex": "#E7E3DA"
+    }
+   ],
+   "sizes": [
+    "US 7",
+    "US 8",
+    "US 9",
+    "US 10",
+    "US 11"
+   ],
+   "stock": 31,
+   "totalStock": 100,
+   "description": "Tonal canvas high-top with a vulcanised sole and a padded collar. The one that goes with everything.",
+   "isFlashSale": true,
+   "isTrending": false,
+   "isFeatured": false,
+   "daysOld": 33
+  },
+  {
+   "n": 5,
+   "name": "Meridian Chronograph",
+   "brand": "Halden",
+   "category": "watches",
+   "price": 219,
+   "originalPrice": 540,
+   "rating": 4.9,
+   "reviews": 436,
+   "images": [
+    "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1524592094714-0f0654e20314?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1522312346375-d1a52e2b99b3?auto=format&fit=crop&w=900&q=80"
+   ],
+   "colors": [
+    {
+     "name": "Silver",
+     "hex": "#BFC2C8"
+    },
+    {
+     "name": "Onyx",
+     "hex": "#1B1C20"
+    },
+    {
+     "name": "Champagne",
+     "hex": "#CDB68A"
+    }
+   ],
+   "sizes": [
+    "40 mm",
+    "42 mm"
+   ],
+   "stock": 5,
+   "totalStock": 40,
+   "description": "Swiss-movement chronograph with sapphire crystal, 100 m water resistance and a brushed steel bracelet.",
+   "isFlashSale": true,
+   "isTrending": true,
+   "isFeatured": false,
+   "daysOld": 3
+  },
+  {
+   "n": 6,
+   "name": "Field Automatic",
+   "brand": "Halden",
+   "category": "watches",
+   "price": 149,
+   "originalPrice": 320,
+   "rating": 4.7,
+   "reviews": 258,
+   "images": [
+    "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1547996160-81dfa63595aa?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1434056886845-dac89ffe9b56?auto=format&fit=crop&w=900&q=80"
+   ],
+   "colors": [
+    {
+     "name": "Olive",
+     "hex": "#5D6247"
+    },
+    {
+     "name": "Onyx",
+     "hex": "#1B1C20"
+    }
+   ],
+   "sizes": [
+    "38 mm",
+    "41 mm"
+   ],
+   "stock": 14,
+   "totalStock": 60,
+   "description": "Self-winding field watch with a 40-hour reserve, exhibition caseback and a luminous dial.",
+   "isFlashSale": true,
+   "isTrending": false,
+   "isFeatured": false,
+   "daysOld": 9
+  },
+  {
+   "n": 7,
+   "name": "Ora Mesh Minimal",
+   "brand": "Ora",
+   "category": "watches",
+   "price": 79,
+   "originalPrice": 160,
+   "rating": 4.5,
+   "reviews": 622,
+   "images": [
+    "https://images.unsplash.com/photo-1434056886845-dac89ffe9b56?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1522312346375-d1a52e2b99b3?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1524592094714-0f0654e20314?auto=format&fit=crop&w=900&q=80"
+   ],
+   "colors": [
+    {
+     "name": "Silver",
+     "hex": "#BFC2C8"
+    },
+    {
+     "name": "Champagne",
+     "hex": "#CDB68A"
+    }
+   ],
+   "sizes": [
+    "36 mm",
+    "40 mm"
+   ],
+   "stock": 33,
+   "totalStock": 120,
+   "description": "Ultra-thin quartz movement, domed mineral crystal and a milanese mesh strap you will not want to take off.",
+   "isFlashSale": true,
+   "isTrending": false,
+   "isFeatured": false,
+   "daysOld": 15
+  },
+  {
+   "n": 8,
+   "name": "Halo ANC Headphones",
+   "brand": "Sonora",
+   "category": "electronics",
+   "price": 129,
+   "originalPrice": 349,
+   "rating": 4.8,
+   "reviews": 2318,
+   "images": [
+    "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1484704849700-f032a568e944?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80"
+   ],
+   "colors": [
+    {
+     "name": "Onyx",
+     "hex": "#1B1C20"
+    },
+    {
+     "name": "Sand",
+     "hex": "#C9B79C"
+    },
+    {
+     "name": "Slate",
+     "hex": "#5B6472"
+    }
+   ],
+   "sizes": [
+    "One size"
+   ],
+   "stock": 7,
+   "totalStock": 150,
+   "description": "Adaptive noise cancelling, 40-hour battery, multipoint Bluetooth and a lightweight memory-foam fit.",
+   "isFlashSale": true,
+   "isTrending": true,
+   "isFeatured": true,
+   "daysOld": 2
+  },
+  {
+   "n": 9,
+   "name": "Pocket Buds 2",
+   "brand": "Sonora",
+   "category": "electronics",
+   "price": 59,
+   "originalPrice": 149,
+   "rating": 4.5,
+   "reviews": 1902,
+   "images": [
+    "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1484704849700-f032a568e944?auto=format&fit=crop&w=900&q=80"
+   ],
+   "colors": [
+    {
+     "name": "White",
+     "hex": "#F4F4F2"
+    },
+    {
+     "name": "Onyx",
+     "hex": "#1B1C20"
+    }
+   ],
+   "sizes": [
+    "One size"
+   ],
+   "stock": 18,
+   "totalStock": 200,
+   "description": "Wireless earbuds with 8 mm drivers, transparency mode and a pocket-sized wireless case.",
+   "isFlashSale": true,
+   "isTrending": false,
+   "isFeatured": false,
+   "daysOld": 27
+  },
+  {
+   "n": 10,
+   "name": "Lumen Phone Pro 256GB",
+   "brand": "Lumen",
+   "category": "electronics",
+   "price": 549,
+   "originalPrice": 899,
+   "rating": 4.7,
+   "reviews": 1544,
+   "images": [
+    "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=900&q=80"
+   ],
+   "colors": [
+    {
+     "name": "Onyx",
+     "hex": "#1B1C20"
+    },
+    {
+     "name": "Silver",
+     "hex": "#BFC2C8"
+    },
+    {
+     "name": "Cobalt",
+     "hex": "#3A4DE8"
+    }
+   ],
+   "sizes": [
+    "128 GB",
+    "256 GB",
+    "512 GB"
+   ],
+   "stock": 10,
+   "totalStock": 75,
+   "description": "6.7-inch OLED, triple camera system, all-day battery and 45 W fast charging. Unlocked.",
+   "isFlashSale": true,
+   "isTrending": false,
+   "isFeatured": false,
+   "daysOld": 5
+  },
+  {
+   "n": 11,
+   "name": "Lumen Slate 11",
+   "brand": "Lumen",
+   "category": "electronics",
+   "price": 279,
+   "originalPrice": 449,
+   "rating": 4.6,
+   "reviews": 388,
+   "images": [
+    "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?auto=format&fit=crop&w=900&q=80"
+   ],
+   "colors": [
+    {
+     "name": "Slate",
+     "hex": "#5B6472"
+    },
+    {
+     "name": "Silver",
+     "hex": "#BFC2C8"
+    }
+   ],
+   "sizes": [
+    "128 GB",
+    "256 GB"
+   ],
+   "stock": 26,
+   "totalStock": 60,
+   "description": "An 11-inch tablet with a 120 Hz display, quad speakers and a pen that feels like paper.",
+   "isFlashSale": false,
+   "isTrending": false,
+   "isFeatured": false,
+   "daysOld": 40
+  },
+  {
+   "n": 12,
+   "name": "Weekender 40L",
+   "brand": "Voss",
+   "category": "accessories",
+   "price": 84,
+   "originalPrice": 210,
+   "rating": 4.8,
+   "reviews": 704,
+   "images": [
+    "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=900&q=80"
+   ],
+   "colors": [
+    {
+     "name": "Sand",
+     "hex": "#C9B79C"
+    },
+    {
+     "name": "Onyx",
+     "hex": "#1B1C20"
+    },
+    {
+     "name": "Olive",
+     "hex": "#5D6247"
+    }
+   ],
+   "sizes": [
+    "One size"
+   ],
+   "stock": 6,
+   "totalStock": 50,
+   "description": "Waxed canvas and vegetable-tanned leather. A carry-on sized duffel with a padded laptop sleeve.",
+   "isFlashSale": true,
+   "isTrending": true,
+   "isFeatured": false,
+   "daysOld": 7
+  },
+  {
+   "n": 13,
+   "name": "Slim Cardholder",
+   "brand": "Voss",
+   "category": "accessories",
+   "price": 29,
+   "originalPrice": 70,
+   "rating": 4.6,
+   "reviews": 998,
+   "images": [
+    "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=80"
+   ],
+   "colors": [
+    {
+     "name": "Onyx",
+     "hex": "#1B1C20"
+    },
+    {
+     "name": "Clay",
+     "hex": "#A5573A"
+    }
+   ],
+   "sizes": [
+    "One size"
+   ],
+   "stock": 45,
+   "totalStock": 150,
+   "description": "Full-grain leather cardholder with RFID protection and a pull-tab for quick access.",
+   "isFlashSale": true,
+   "isTrending": false,
+   "isFeatured": false,
+   "daysOld": 55
+  },
+  {
+   "n": 14,
+   "name": "Solar Shades 01",
+   "brand": "Aster",
+   "category": "accessories",
+   "price": 45,
+   "originalPrice": 130,
+   "rating": 4.5,
+   "reviews": 476,
+   "images": [
+    "https://images.unsplash.com/photo-1572635196237-14b3f281503f?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1577803645773-f96470509666?auto=format&fit=crop&w=900&q=80"
+   ],
+   "colors": [
+    {
+     "name": "Onyx",
+     "hex": "#1B1C20"
+    },
+    {
+     "name": "Clay",
+     "hex": "#A5573A"
+    }
+   ],
+   "sizes": [
+    "One size"
+   ],
+   "stock": 11,
+   "totalStock": 70,
+   "description": "Polarised lenses in a bio-acetate frame. UV400 protection with a scratch-resistant coating.",
+   "isFlashSale": true,
+   "isTrending": false,
+   "isFeatured": false,
+   "daysOld": 18
+  },
+  {
+   "n": 15,
+   "name": "Wire Aviator",
+   "brand": "Aster",
+   "category": "accessories",
+   "price": 52,
+   "originalPrice": 120,
+   "rating": 4.4,
+   "reviews": 351,
+   "images": [
+    "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1577803645773-f96470509666?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1572635196237-14b3f281503f?auto=format&fit=crop&w=900&q=80"
+   ],
+   "colors": [
+    {
+     "name": "Champagne",
+     "hex": "#CDB68A"
+    },
+    {
+     "name": "Silver",
+     "hex": "#BFC2C8"
+    }
+   ],
+   "sizes": [
+    "One size"
+   ],
+   "stock": 22,
+   "totalStock": 90,
+   "description": "Lightweight metal frame with adjustable nose pads and gradient polarised lenses.",
+   "isFlashSale": true,
+   "isTrending": false,
+   "isFeatured": false,
+   "daysOld": 30
+  },
+  {
+   "n": 16,
+   "name": "Storm Parka",
+   "brand": "Fjell",
+   "category": "fashion",
+   "price": 139,
+   "originalPrice": 320,
+   "rating": 4.9,
+   "reviews": 673,
+   "images": [
+    "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1544923246-77307dd654cb?auto=format&fit=crop&w=900&q=80"
+   ],
+   "colors": [
+    {
+     "name": "Olive",
+     "hex": "#5D6247"
+    },
+    {
+     "name": "Onyx",
+     "hex": "#1B1C20"
+    },
+    {
+     "name": "Sand",
+     "hex": "#C9B79C"
+    }
+   ],
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "stock": 8,
+   "totalStock": 55,
+   "description": "Three-layer waterproof shell, recycled down fill and a detachable hood. Warm to -15 C.",
+   "isFlashSale": true,
+   "isTrending": true,
+   "isFeatured": false,
+   "daysOld": 6
+  },
+  {
+   "n": 17,
+   "name": "Wool Overcoat",
+   "brand": "Fjell",
+   "category": "fashion",
+   "price": 168,
+   "originalPrice": 380,
+   "rating": 4.7,
+   "reviews": 214,
+   "images": [
+    "https://images.unsplash.com/photo-1539533018447-63fcce2678e3?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1544923246-77307dd654cb?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&w=900&q=80"
+   ],
+   "colors": [
+    {
+     "name": "Slate",
+     "hex": "#5B6472"
+    },
+    {
+     "name": "Onyx",
+     "hex": "#1B1C20"
+    }
+   ],
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "stock": 20,
+   "totalStock": 40,
+   "description": "Italian wool blend with a clean single-breasted cut and a fully lined interior.",
+   "isFlashSale": false,
+   "isTrending": false,
+   "isFeatured": false,
+   "daysOld": 45
+  },
+  {
+   "n": 18,
+   "name": "Rigid Denim Jacket",
+   "brand": "Nordic Co.",
+   "category": "fashion",
+   "price": 72,
+   "originalPrice": 160,
+   "rating": 4.5,
+   "reviews": 519,
+   "images": [
+    "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1576566588028-4147f3842f27?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1489987707025-afc232f7ea0f?auto=format&fit=crop&w=900&q=80"
+   ],
+   "colors": [
+    {
+     "name": "Cobalt",
+     "hex": "#3A4DE8"
+    },
+    {
+     "name": "Onyx",
+     "hex": "#1B1C20"
+    }
+   ],
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "stock": 27,
+   "totalStock": 100,
+   "description": "Heavyweight 13 oz selvedge denim, copper rivets and a shape that softens with every wear.",
+   "isFlashSale": true,
+   "isTrending": false,
+   "isFeatured": false,
+   "daysOld": 16
+  },
+  {
+   "n": 19,
+   "name": "Knit Crewneck",
+   "brand": "Common",
+   "category": "fashion",
+   "price": 46,
+   "originalPrice": 110,
+   "rating": 4.6,
+   "reviews": 887,
+   "images": [
+    "https://images.unsplash.com/photo-1489987707025-afc232f7ea0f?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?auto=format&fit=crop&w=900&q=80"
+   ],
+   "colors": [
+    {
+     "name": "Bone",
+     "hex": "#E7E3DA"
+    },
+    {
+     "name": "Sand",
+     "hex": "#C9B79C"
+    },
+    {
+     "name": "Olive",
+     "hex": "#5D6247"
+    }
+   ],
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "stock": 38,
+   "totalStock": 140,
+   "description": "Merino-cotton blend, ribbed cuffs and a relaxed drop shoulder. Soft on day one.",
+   "isFlashSale": true,
+   "isTrending": false,
+   "isFeatured": false,
+   "daysOld": 22
+  },
+  {
+   "n": 20,
+   "name": "Pulse 75 Keyboard",
+   "brand": "Pulse",
+   "category": "gaming",
+   "price": 79,
+   "originalPrice": 169,
+   "rating": 4.8,
+   "reviews": 1230,
+   "images": [
+    "https://images.unsplash.com/photo-1593305841991-05c297ba4575?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1612287230202-1ff1d85d1bdf?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=900&q=80"
+   ],
+   "colors": [
+    {
+     "name": "Onyx",
+     "hex": "#1B1C20"
+    },
+    {
+     "name": "White",
+     "hex": "#F4F4F2"
+    }
+   ],
+   "sizes": [
+    "One size"
+   ],
+   "stock": 13,
+   "totalStock": 90,
+   "description": "Hot-swappable 75% mechanical board with gasket mount, PBT keycaps and per-key lighting.",
+   "isFlashSale": true,
+   "isTrending": true,
+   "isFeatured": false,
+   "daysOld": 8
+  },
+  {
+   "n": 21,
+   "name": "Pulse Air Mouse",
+   "brand": "Pulse",
+   "category": "gaming",
+   "price": 39,
+   "originalPrice": 99,
+   "rating": 4.5,
+   "reviews": 664,
+   "images": [
+    "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1598550476439-6847785fcea6?auto=format&fit=crop&w=900&q=80"
+   ],
+   "colors": [
+    {
+     "name": "Onyx",
+     "hex": "#1B1C20"
+    },
+    {
+     "name": "White",
+     "hex": "#F4F4F2"
+    }
+   ],
+   "sizes": [
+    "One size"
+   ],
+   "stock": 29,
+   "totalStock": 120,
+   "description": "58 g wireless mouse with a 26K sensor, 80-hour battery and a 1000 Hz polling rate.",
+   "isFlashSale": true,
+   "isTrending": false,
+   "isFeatured": false,
+   "daysOld": 19
+  },
+  {
+   "n": 22,
+   "name": "Vortex Controller",
+   "brand": "Vortex",
+   "category": "gaming",
+   "price": 44,
+   "originalPrice": 89,
+   "rating": 4.6,
+   "reviews": 431,
+   "images": [
+    "https://images.unsplash.com/photo-1598550476439-6847785fcea6?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?auto=format&fit=crop&w=900&q=80"
+   ],
+   "colors": [
+    {
+     "name": "Onyx",
+     "hex": "#1B1C20"
+    },
+    {
+     "name": "Cobalt",
+     "hex": "#3A4DE8"
+    }
+   ],
+   "sizes": [
+    "One size"
+   ],
+   "stock": 4,
+   "totalStock": 45,
+   "description": "Hall-effect sticks, remappable back paddles and a low-latency dongle. PC and console compatible.",
+   "isFlashSale": true,
+   "isTrending": false,
+   "isFeatured": false,
+   "daysOld": 11
+  },
+  {
+   "n": 23,
+   "name": "Maison Verre EDP 50ml",
+   "brand": "Maison Verre",
+   "category": "beauty",
+   "price": 58,
+   "originalPrice": 130,
+   "rating": 4.8,
+   "reviews": 356,
+   "images": [
+    "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?auto=format&fit=crop&w=900&q=80"
+   ],
+   "colors": [
+    {
+     "name": "Champagne",
+     "hex": "#CDB68A"
+    }
+   ],
+   "sizes": [
+    "50 ml",
+    "100 ml"
+   ],
+   "stock": 15,
+   "totalStock": 70,
+   "description": "A warm, woody eau de parfum with bergamot, cedar and a trace of amber. Long-lasting.",
+   "isFlashSale": true,
+   "isTrending": true,
+   "isFeatured": false,
+   "daysOld": 13
+  },
+  {
+   "n": 24,
+   "name": "Ritual Serum Set",
+   "brand": "Skin Ritual",
+   "category": "beauty",
+   "price": 34,
+   "originalPrice": 85,
+   "rating": 4.7,
+   "reviews": 1129,
+   "images": [
+    "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1590156221122-c748e789e4e3?auto=format&fit=crop&w=900&q=80"
+   ],
+   "colors": [
+    {
+     "name": "White",
+     "hex": "#F4F4F2"
+    }
+   ],
+   "sizes": [
+    "One size"
+   ],
+   "stock": 42,
+   "totalStock": 160,
+   "description": "Vitamin C, hyaluronic acid and niacinamide serums in a travel-ready set. Fragrance-free.",
+   "isFlashSale": true,
+   "isTrending": false,
+   "isFeatured": false,
+   "daysOld": 25
+  },
+  {
+   "n": 25,
+   "name": "Ember Candle Trio",
+   "brand": "Ember",
+   "category": "lifestyle",
+   "price": 24,
+   "originalPrice": 60,
+   "rating": 4.7,
+   "reviews": 745,
+   "images": [
+    "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1585386959984-a4155224a1ad?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1602874801007-bd458bb1b8b6?auto=format&fit=crop&w=900&q=80"
+   ],
+   "colors": [
+    {
+     "name": "Sand",
+     "hex": "#C9B79C"
+    },
+    {
+     "name": "Onyx",
+     "hex": "#1B1C20"
+    }
+   ],
+   "sizes": [
+    "One size"
+   ],
+   "stock": 3,
+   "totalStock": 60,
+   "description": "Three hand-poured soy candles in ceramic vessels: fig, cedar and smoked vanilla. 40-hour burn each.",
+   "isFlashSale": true,
+   "isTrending": false,
+   "isFeatured": false,
+   "daysOld": 10
+  },
+  {
+   "n": 26,
+   "name": "Terra Insulated Bottle",
+   "brand": "Terra",
+   "category": "lifestyle",
+   "price": 22,
+   "originalPrice": 48,
+   "rating": 4.6,
+   "reviews": 1033,
+   "images": [
+    "https://images.unsplash.com/photo-1523362628745-0c100150b504?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1602928321679-560bb453f190?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1517254456976-ee8682099819?auto=format&fit=crop&w=900&q=80"
+   ],
+   "colors": [
+    {
+     "name": "Olive",
+     "hex": "#5D6247"
+    },
+    {
+     "name": "Onyx",
+     "hex": "#1B1C20"
+    },
+    {
+     "name": "Sand",
+     "hex": "#C9B79C"
+    }
+   ],
+   "sizes": [
+    "500 ml",
+    "750 ml"
+   ],
+   "stock": 17,
+   "totalStock": 130,
+   "description": "Double-wall vacuum steel keeps drinks cold for 24 hours or hot for 12. Leak-proof lid.",
+   "isFlashSale": true,
+   "isTrending": false,
+   "isFeatured": false,
+   "daysOld": 36
+  }
+ ]
+}

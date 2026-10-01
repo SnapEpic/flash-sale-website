@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html { scroll-behavior: smooth; -webkit-tap-highlight-color: transparent; }
+  html, body { max-width: 100%; overflow-x: clip; }
+  body { @apply bg-paper font-sans text-ink antialiased; }
+  ::selection { background: #4A5CFF; color: #fff; }
+  :focus-visible { outline: 2px solid #4A5CFF; outline-offset: 3px; border-radius: 6px; }
+  .on-dark :focus-visible { outline-color: #8F9BFF; }
+  button { cursor: pointer; }
+  input[type='range'] { accent-color: #4A5CFF; }
+}
+
+@layer utilities {
+  .no-scrollbar { scrollbar-width: none; }
+  .no-scrollbar::-webkit-scrollbar { display: none; }
+  .tnum { font-variant-numeric: tabular-nums; }
+  .safe-bottom { padding-bottom: max(1rem, env(safe-area-inset-bottom)); }
+}
+
+.container-x { @apply mx-auto w-full max-w-[1440px] px-5 md:px-8; }
+.h-display { @apply font-display font-extrabold uppercase leading-[.86] tracking-tight; }
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  .animate-marquee, .animate-pulseRing { animation: none; }
+}
