@@ -164,7 +164,6 @@ cp server/.env.example server/.env
 #      REDIS_URL   redis://127.0.0.1:6379
 #      JWT_SECRET  node -e "console.log(require('crypto').randomBytes(48).toString('hex'))"
 #      RAZORPAY_KEY_ID / RAZORPAY_KEY_SECRET   Razorpay dashboard → Test mode → API keys
-#      CLOUDINARY_*  (only needed for admin image uploads)
 
 # 3. Start MongoDB and Redis (pick what suits your machine)
 mongod                      # or use Atlas
@@ -225,7 +224,7 @@ Needs MongoDB and Redis running. It **re-seeds the database**, then exercises th
 
 ## Honest limitations
 
-- **Razorpay and Cloudinary need your own credentials.** The code paths are implemented, and signature verification and error handling are tested, but the live calls to those two services can only be exercised with your keys.
+- **Razorpay need your own credentials.** The code paths are implemented, and signature verification and error handling are tested, but the live calls to those two services can only be exercised with your keys.
 - MongoDB transactions are not used: the order is claimed with one atomic update and Redis scripts are atomic, but a process crash between "order marked paid" and "MongoDB stock decremented" would leave Mongo's counter one sale behind (Redis, which gates purchases, stays correct). A transaction needs a replica set; this is the next step for production.
 - Search uses indexed-field regex matching, which is fine for a catalogue of this size; for large catalogues use a text index or Atlas Search.
 - The Contact form is still the original demo form (it does not send email), and product reviews are sample testimonials.
